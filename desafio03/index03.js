@@ -148,11 +148,3 @@ class Product {
   }
   
   demonstrateGRASP();
-  
-  module.exports = {
-    Product,
-    OrderItem,
-    Order,
-    OrderController,
-    ProductRepository
-  };
